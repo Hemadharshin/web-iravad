@@ -1,0 +1,55 @@
+/* ---------------Header.css----------------------------- */
+body{
+  overflow-x: hidden;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  background-color: #000;
+  font-weight: 100;
+  font-family:monospace;
+}
+.logo {
+  font-size: 24px;
+  color: white;  
+  position: absolute;
+  /* left:19px; */
+  left: 1px;
+}
+.site-logo-img{
+  height: 60px;
+  width: 20px;
+}
+.tagline {
+  display: block; 
+  font-size: 16px; 
+  margin-left:60px; 
+}
+.navigation ul {
+  list-style-type: none;
+}
+.navigation ul li {
+  display: inline; 
+  margin-right: 20px; 
+}
+.navigation ul li a {
+  text-decoration: none;
+  color: white;
+  font-size: 16px;
+}
+.navigation ul li a:hover{
+   color: rgb(143, 245, 143);
+}
+.nav-product{
+  border: none;
+  background-color: #000;
+  color: white;
+  font-size: 16px;
+  font-weight: 100;
+  font-family:monospace;
+}
+.nav-product:hover{
+  color: rgb(143, 245, 143);
+}

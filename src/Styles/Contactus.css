@@ -1,0 +1,26 @@
+.contactus-content{
+  background-color: rgb(245, 149, 229);
+  height: 500px;
+  padding: 100px;
+  color: white;
+}
+
+.contactus-card{
+  /* margin-top: -80px; */
+  height: 300px;
+  width: 600px;
+  margin-left: 344px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+  padding: 30px;
+}
+.contactus-card p{
+  right: 10px;
+}
+.contactus-card h5{
+  color: rgb(150, 237, 150);
+}
+.contactus-card h6{
+  color: grey;
+  font-size: 14px;
+  font-family: sans-serif;
+}

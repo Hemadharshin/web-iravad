@@ -1,0 +1,23 @@
+/* Footer css */
+
+.copyright{
+  position: absolute;
+  margin-left: 2px;
+  font-size: 15px;
+  color: grey;
+  padding: 20px;
+  }
+  .foot-span{
+    color: rgb(150, 237, 150);
+  }
+  .powered{
+    position: absolute;
+    right: 10px;
+    font-size: 15px;
+    color: grey;
+    text-align: right;
+    padding: 20px;
+  }
+  
+  
+  
